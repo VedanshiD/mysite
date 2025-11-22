@@ -1,0 +1,16 @@
+<html>
+<head><title>Animation</title>
+<style>
+body{
+        background-repeat : no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+}
+</style>
+</head>
+<body background = "animation/bg.jpg">    
+<marquee>
+<img src = "animation/a.gif">
+</marquee>
+</body>
+</html>
